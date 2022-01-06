@@ -1,4 +1,4 @@
-# Kickstarter-Analysis-Chalange-
+# Kickstarter-Analysis-challeng-
 week one chalange 
 
 #Deliverable 1
